@@ -1,0 +1,19 @@
+Hola, soy DInda Artista Tech.
+
+Este modelo de machine learning fue creado para la investigación "Raíces, Más allá del Límite", 
+en la Residencia Las Orillas 2019, Universidad Nacional de las Artes.
+
+Para ver el modelo creado recomiendo la plataforma online p5.js
+click en play y ctrl+shift+i para la consola de desarrollador
+
+https://editor.p5js.org/dinda3650@gmail.com/sketches/nDHtjuAZl
+
+-el modelo propone reconocer 3 coordenadas correspondientes a la base de árboles
+a partir de imágenes con suelo, tronco y aire. se utiliza la librería tensorflow.js
+se encuentra aún en desarrollo y en búsqueda de financiamiento-
+
+para leer más sobre el proyecto de Investigación: 
+thedinda.art/raices
+
+comentarios bienvenidos! 
+dinda.artist@gmail.com
